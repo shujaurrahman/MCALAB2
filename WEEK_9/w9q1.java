@@ -1,5 +1,4 @@
 package WEEK_9;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -10,7 +9,6 @@ class FileInputException extends Exception {
         super(message);
     }
 }
-
 public class w9q1 {
     public static void main(String[] args) {
         String fileName = "nonexistent.txt"; // Does not exist
@@ -21,7 +19,6 @@ public class w9q1 {
             System.err.println("Custom file input exception: " + e.getMessage());
         }
     }
-
     public static void readFromFile(String fileName) throws FileInputException {
         try (FileReader fileReader = new FileReader(fileName);
              BufferedReader reader = new BufferedReader(fileReader)) {
@@ -32,11 +29,9 @@ public class w9q1 {
                 // Process each line
                 System.out.println(line);
             }
-
         } catch (IOException e) {
             // Throwing custom exception instead of FileNotFoundException
             throw new FileInputException("Error reading from file: " + e.getMessage());
-
         } finally {
             // Log a message indicating the successful closure of the FileReader object
             System.out.println("FileReader object closed successfully.");

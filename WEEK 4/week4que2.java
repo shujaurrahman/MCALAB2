@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class week4que2 {
     public static void main(String[] args) {
-        System.out.println("Program to print Possible combination of three Numbers.");
+        System.out.println("Program to print possible combination of three Numbers.");
         Scanner sc=new Scanner(System.in);
         int a,b,c;
         System.out.println("Enter three Numbers: ");

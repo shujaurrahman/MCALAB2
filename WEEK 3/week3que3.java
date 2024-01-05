@@ -11,6 +11,5 @@ public class week3que3 {
             sum+=1/(float)i;
         }
         System.out.printf("Sum of Reciprocals is: %.3f ",sum);
-//        System.out.printf("%.3f",sum);
     }
 }
