@@ -1,5 +1,5 @@
+package WEEK_1;
 import java.util.Scanner;
-
 public class week1que2 {
     public static void main(String[] args) {
         System.out.println("Program to Print Address of User.");

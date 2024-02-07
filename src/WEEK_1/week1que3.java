@@ -1,3 +1,4 @@
+package WEEK_1;
 import java.util.Scanner;
 public class week1que3 {
     public static void main(String[] args) {

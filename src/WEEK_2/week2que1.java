@@ -1,4 +1,5 @@
-import javax.sound.midi.Soundbank;
+
+package WEEK_2;
 import java.util.Scanner;
 public class week2que1 {
     public static void main(String[] args) {

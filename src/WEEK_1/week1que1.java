@@ -1,4 +1,5 @@
 
+package WEEK_1;
 public class week1que1 {
     public static void main(String[] args) {
         System.out.println("Print Hello World.");

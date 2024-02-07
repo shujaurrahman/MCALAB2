@@ -1,5 +1,5 @@
-//import java.lang.Math;
-import javax.swing.plaf.metal.MetalTheme;
+package WEEK_2;
+
 import java.util.Scanner;
 
 public class week2que2 {
