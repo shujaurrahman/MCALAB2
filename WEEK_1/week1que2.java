@@ -16,6 +16,5 @@ public class week1que2 {
         System.out.print("Address is: " + housenumber + "\n" + street + "\n" + city + "\n" + country);
         sc.close();
 
-
     }
 }

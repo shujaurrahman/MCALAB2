@@ -11,6 +11,7 @@ public class week1que4 {
         System.out.println("Fahrenheit Temp"+"          "+"Celsius Temp");
         System.out.println("-------------------------------------------");
         System.out.println(f+"                       "+c);
+        System.out.println(""+c);
         sc.close();
     }
 }
