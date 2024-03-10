@@ -1,6 +1,5 @@
 package WEEK_8;
 import org.apache.log4j.Logger;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
@@ -13,11 +12,10 @@ class DatabaseConnectionException extends Exception {
 
 public class w8q1{
     private static final Logger log = Logger.getLogger(w8q1.class);
-
     // Database connection details
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/";
-    private static final String USER = "shujaurrahman";
-    private static final String PASSWORD = "";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/w8q1";
+    private static final String USER = "root";
+    private static final String PASSWORD = "Opssasur@1989";
 
     public static void main(String[] args) {
         try {
