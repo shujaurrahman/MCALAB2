@@ -15,7 +15,7 @@ public class w8q1{
     // Database connection details
     private static final String DB_URL = "jdbc:mysql://localhost:3306/w8q1";
     private static final String USER = "root";
-    private static final String PASSWORD = "Opssasur@1989";
+    private static final String PASSWORD = "Opssasur@19";
 
     public static void main(String[] args) {
         try {

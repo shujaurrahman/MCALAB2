@@ -13,7 +13,7 @@ class DateParsingException extends RuntimeException {
 public class w8q2 {
 
     public static void main(String[] args) {
-        String dateString = "04-10-2024"; // Replace with an incorrectly formatted date
+        String dateString = "04/10-2024"; // Replace with an incorrectly formatted date
 
         // Declare the SimpleDateFormat outside the try block
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
