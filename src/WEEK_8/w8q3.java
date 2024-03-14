@@ -1,11 +1,9 @@
 package WEEK_8;
-
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
-
 // Custom exception class for network connection issues
 class NetworkConnectionException extends Exception {
     public NetworkConnectionException(String message) {
@@ -27,7 +25,6 @@ record ConnectionWrapper(HttpURLConnection connection) implements AutoCloseable 
         }
     }
 }
-
 public class w8q3 {
     private static final Logger logger = LogManager.getLogger(w8q3.class);
 
@@ -51,7 +48,6 @@ public class w8q3 {
             logger.info("Finally block executed.");
         }
     }
-
     // Method to open a connection and throw custom exception if an issue occurs
     private static ConnectionWrapper openConnection(String urlString) throws NetworkConnectionException, IOException {
         try {
