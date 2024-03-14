@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class week6que3 {
 
     public static void main(String[] args) {
