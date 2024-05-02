@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MCALAB.iml" filepath="$PROJECT_DIR$/MCALAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WEEk_9/WEEk_9.iml" filepath="$PROJECT_DIR$/WEEk_9/WEEk_9.iml" />
+    </modules>
+  </component>
+</project>

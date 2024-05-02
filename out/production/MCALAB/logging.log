@@ -1,0 +1,11 @@
+
+2024-03-08 23:44:48 INFO  w8q1:34 - Closing the database connection.
+2024-03-08 23:44:48 ERROR w8q1:38 - Custom Exception: Error connecting to the database
+WEEK_8.DatabaseConnectionException: Error connecting to the database
+	at WEEK_8.w8q1.main(w8q1.java:31)
+Caused by: java.sql.SQLException: No suitable driver found for jdbc:mysql://localhost:3306/
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:708)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at WEEK_8.w8q1.main(w8q1.java:27)
+2024-03-08 23:45:45 INFO  w8q1:26 - Database connection established successfully.
+2024-03-08 23:45:45 INFO  w8q1:32 - Closing the database connection.
