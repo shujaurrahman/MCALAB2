@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e0ce14-3578-4e24-a275-c7b360c0272a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/WEEK_1/week1que1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_1/week1que2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_1/week1que3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_1/week1que4.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_10/w10q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_10/w10q1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_10/w10q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_10/w10q2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_10/w10q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_10/w10q3.java" afterDir="false" />
@@ -18,12 +22,35 @@
       <change beforePath="$PROJECT_DIR$/WEEK_12/OnlineLibrarySystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_12/OnlineLibrarySystem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_12/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_12/input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_12/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_12/output.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_3/week3que2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_3/week3que3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_4/week4que2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_4/week4que2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_6/week6que1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que3.class" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_6/week6que3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_6/week6que3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_2/week2que1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_2/week2que2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_2/week2que3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_3/week3que5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_4/week4que1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_4/week4que2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_4/week4que3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_4/week4que4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_4/week4que5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_5/week5que1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_5/week5que2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_5/week5que3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_5/week5que4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/DataProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/InvalidDataException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/testque2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/testque2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_6/week6que3.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_7/apache-log4j-1.2.17/INSTALL" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_7/apache-log4j-1.2.17/KEYS" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_7/apache-log4j-1.2.17/LICENSE" beforeDir="false" />
@@ -4228,16 +4255,17 @@
       <change beforePath="$PROJECT_DIR$/WEEK_7/q1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_7/q2.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WEEK_7/q3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_7/w7q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_7/w7q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_7/w7q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_7/w7q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_7/w7q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_7/w7q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_8/w8q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_8/w8q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_8/w8q2.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_8/w8q2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_8/w8q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_8/w8q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_9/w9q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_9/w9q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK_9/w9q3.java" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK_9/w9q3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_7/w7q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_7/w7q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_7/w7q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_8/w8q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_8/w8q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_8/w8q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_9/w9q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_9/w9q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK_9/w9q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logging.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -4268,65 +4296,65 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.BankSimulation (1).executor": "Run",
-    "Application.BankSimulation.executor": "Run",
-    "Application.DataProcessor.executor": "Run",
-    "Application.HybridPSOGATriangleTestCases (1).executor": "Run",
-    "Application.HybridPSOGATriangleTestCases.executor": "Run",
-    "Application.JavaPreCompiler.executor": "Run",
-    "Application.JavaPreCompiler2.executor": "Run",
-    "Application.OnlineLibrarySystem.executor": "Run",
-    "Application.Problem1.executor": "Run",
-    "Application.Problem2.executor": "Run",
-    "Application.Problem3.executor": "Run",
-    "Application.Problem4.executor": "Run",
-    "Application.ThreadedProcessor.executor": "Run",
-    "Application.q2.executor": "Run",
-    "Application.w10q1.executor": "Run",
-    "Application.w10q2 (1).executor": "Run",
-    "Application.w10q2.executor": "Run",
-    "Application.w10q3.executor": "Run",
-    "Application.w7q1.executor": "Run",
-    "Application.w7q2.executor": "Run",
-    "Application.w7q3.executor": "Run",
-    "Application.w8q1.executor": "Run",
-    "Application.w8q2 (1).executor": "Run",
-    "Application.w8q2.executor": "Run",
-    "Application.w8q3 (1).executor": "Run",
-    "Application.w8q3 (2).executor": "Run",
-    "Application.w8q3.executor": "Run",
-    "Application.w9q1 (1).executor": "Run",
-    "Application.w9q1.executor": "Run",
-    "Application.w9q2.executor": "Run",
-    "Application.w9q3.executor": "Run",
-    "Application.week3que5.executor": "Run",
-    "Application.week4que2.executor": "Run",
-    "Application.week4que4.executor": "Run",
-    "Application.week4que5.executor": "Run",
-    "Application.week6que1.executor": "Run",
-    "Application.week6que2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/shujaurrahman/Desktop/MCA/SEMESTER 2/MCALAB/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "settings.qodana",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.BankSimulation (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.BankSimulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataProcessor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HybridPSOGATriangleTestCases (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.HybridPSOGATriangleTestCases.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaPreCompiler.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaPreCompiler2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OnlineLibrarySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThreadedProcessor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w10q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w10q2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.w10q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w10q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w7q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w7q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w7q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w8q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w8q2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.w8q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w8q3 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.w8q3 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.w8q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w9q1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.w9q1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w9q2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.w9q3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week3que5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week4que2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week4que4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week4que5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week6que1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.week6que2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shujaurrahman/Desktop/MCA/SEMESTER 2/MCALAB/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Problem4">
     <configuration name="BankSimulation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WEEK_12.BankSimulation" />
@@ -4448,6 +4476,7 @@
       <workItem from="1713769559925" duration="221000" />
       <workItem from="1713868332403" duration="2697000" />
       <workItem from="1713932349996" duration="1855000" />
+      <workItem from="1714741749548" duration="21000" />
     </task>
     <servers />
   </component>
